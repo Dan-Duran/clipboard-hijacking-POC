@@ -25,7 +25,7 @@ To run this PoC, follow the steps below:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Dan-Duran/clipboard-hijacking-POC.git
-cd clipboard-hijacking-poc
+cd clipboard-hijacking-POC
 ```
 
 ### 2. Create a Virtual Environment
