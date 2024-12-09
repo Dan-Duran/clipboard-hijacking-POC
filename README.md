@@ -37,7 +37,7 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ### 3. Install Required Libraries
 Install the necessary Python libraries using `pip`:
 ```bash
-pip install -r requirements.txt
+pip install pyperclip
 ```
 
 ### 4. Run the Script
